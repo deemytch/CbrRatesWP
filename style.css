@@ -1,0 +1,13 @@
+.CBR_rates {
+ text-align: center;
+ border-top: 2px solid gray;
+ border-bottom: 2px solid gray;
+ padding-left: 2em;
+}
+
+.CBR_rates table {
+  float: center;
+}
+.CBR_rates td,tr,th {
+  padding: 0 0.25em;
+}
